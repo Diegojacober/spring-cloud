@@ -1,0 +1,3 @@
+git checkout --orphan branchname
+
+git rm -rf .
